@@ -162,6 +162,11 @@
                 "pool_id": "7e3a1ed8f2085923debacc6866aefaba941edd638ff0886061ebf521",
                 "member_since": "2021-01-24",
                 "name": "[SWAG] Swag Stakepool"
+            },
+            "28": {
+                "pool_id": "96aa57f4af0652c800cde0d25288bf6d1e35aefd11770d60e6bf8f0a",
+                "member_since": "2021-01-24",
+                "name": "[BKK] Suvarnabhumi airport Thailand"
             }
         }
     }
