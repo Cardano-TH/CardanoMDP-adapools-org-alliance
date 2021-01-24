@@ -152,7 +152,17 @@
                 "pool_id": "0036c901c2c2221798e5e96edd7d0e600077114ed6f067e21d302a6d",
                 "member_since": "2020-12-10",
                 "name": "CLIMA Pool"
-            }  
+            },
+            "26": {
+                "pool_id": "2ee658bc6437e77e492d2216191e28dd076d88c7f0c0c4949092fe34",
+                "member_since": "2021-01-24",
+                "name": "[DMK] Donmueang international airport"
+            },
+            "27": {
+                "pool_id": "96aa57f4af0652c800cde0d25288bf6d1e35aefd11770d60e6bf8f0a",
+                "member_since": "2021-01-24",
+                "name": "[BKK] Suvarnabhumi airport Thailand"
+            }        
         }
     }
 }
